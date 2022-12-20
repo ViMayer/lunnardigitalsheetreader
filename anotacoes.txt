@@ -1,0 +1,7 @@
+CONST DADOS -> shopOwerSlug declarado ao inves de shopOwnerSlug
+
+Adicionar key unica em dashboard para cada child element
+
+Removido CORS em next config
+
+TypeScript deixa criar build mesmo sem estar correto, feito isso para desenvolvimento mais rapido
